@@ -15,3 +15,5 @@
 * [SRL-Hyperbridge-Baseline_audit_report-2024.pdf](./SRL-Hyperbridge-Baseline_audit_report-2024.pdf)
 * [SRL-Invarch-Baseline_audit_report-2024.pdf](./SRL-Invarch-Baseline_audit_report-2024.pdf)
 * [SRL-T3rn-Baseline_audit_report-2024.pdf](./SRL-T3rn-Baseline_audit_report-2024.pdf)
+* [SRL-zkVerify_baseline_assurance-report-2025.pdf](./SRL-zkVerify_baseline_assurance-report-2025.pdf)
+
