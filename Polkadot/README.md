@@ -16,4 +16,6 @@
 * [SRL-Invarch-Baseline_audit_report-2024.pdf](./SRL-Invarch-Baseline_audit_report-2024.pdf)
 * [SRL-T3rn-Baseline_audit_report-2024.pdf](./SRL-T3rn-Baseline_audit_report-2024.pdf)
 * [SRL-zkVerify_baseline_assurance-report-2025.pdf](./SRL-zkVerify_baseline_assurance-report-2025.pdf)
-
+* [SRLabs-xcavate-baseline_assurance-2025.pdf](./SRLabs-xcavate-baseline_assurance-2025.pdf)
+* [SRLabs-neuroweb-foreign_assets_audit-2025.pdf](./SRLabs-neuroweb-foreign_assets_audit-2025.pdf)
+* [SRLabs-frontier-baseline_assurance_audit-2025.pdf](./SRLabs-frontier-baseline_assurance_audit-2025.pdf)
