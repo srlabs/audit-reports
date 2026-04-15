@@ -15,3 +15,4 @@ For questions or collaboration, feel free to reach out.
 
 * [Polkadot ecosystem audit reports](./Polkadot/) 
 * [Autonomys audit reports](./Autonomys/) 
+* [Other_Blockchains](./Other_Blockchains/)
